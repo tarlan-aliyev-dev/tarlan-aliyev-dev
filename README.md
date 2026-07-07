@@ -60,6 +60,10 @@ I'm a software engineer with a QA foundation, now building deep in AI. I design 
 <br>
 A personal JARVIS-style command center over Claude Code: voice control, a live multi-agent grid, an Obsidian knowledge graph, and automated morning briefings. &nbsp;·&nbsp; *Bun · TypeScript · Hono*
 
+**QA Copilot** &nbsp;`private`
+<br>
+An LLM agent that automates QA workflows — turning tickets and requirements into test steps and triaging results. &nbsp;·&nbsp; *TypeScript · Claude*
+
 **Nura** &nbsp;`private`
 <br>
 An AI-powered consumer product built on large language models. &nbsp;·&nbsp; *Python*
