@@ -68,13 +68,6 @@ An AI-powered consumer product built on large language models. &nbsp;·&nbsp; *P
 <br>
 A streaming-UI clone exploring modern React patterns. &nbsp;·&nbsp; *TypeScript*
 
-### GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tarlan-aliyev-dev&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarlan-aliyev-dev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
-</p>
-
 ### Connect
 
 <p>
